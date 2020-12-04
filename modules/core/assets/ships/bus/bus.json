@@ -1,6 +1,6 @@
 {
     "size": 3.5,
-    "maxLife": 120,
+    "maxLife": 300,
     "type": "big",
     "gunSlots": [
         {
